@@ -1,4 +1,6 @@
-# ecr-machine-role - Scoped roles for ECR for use with CI/CD
+# ECR-machine-role - Scoped roles for ECR for use with CI/CD
+
+THIS MODULE IS ARCHIVED AND DEPRECATED
 
 This module helps with setting up a Concourse CI machine role for the common artifacts account.
 It is scoped by namespace (e.g. a team name), and each role will only have access to ECR repositories
